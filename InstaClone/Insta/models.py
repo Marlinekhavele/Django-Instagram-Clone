@@ -11,4 +11,4 @@ class Post(models.Model):
     created_date = models.DateField(default=timezone.now)
 
     def __str__(self):
-        self.author
+        return self.caption
