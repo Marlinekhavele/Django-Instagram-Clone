@@ -1,4 +1,4 @@
-# Django-Instagram-Clone
+# Instagram-Clone
 Building an Instagram clone with django
 
 ###### How to build a fully functioning Instagram Clone using:
