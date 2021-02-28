@@ -5,3 +5,6 @@ Building an Instagram clone with django
 
  - Python
  - Django
+ 
+ ![alt text](ig.png "Instagram clone")
+
